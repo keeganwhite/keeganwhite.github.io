@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/keeganwhite.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/keeganwhite.github.io/static/js/main.75290023.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/keeganwhite.github.io/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/logo.svg": "/keeganwhite.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/keeganwhite.github.io/index.html",
+    "main.073c9b0a.css.map": "/keeganwhite.github.io/static/css/main.073c9b0a.css.map",
+    "main.75290023.js.map": "/keeganwhite.github.io/static/js/main.75290023.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/keeganwhite.github.io/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.75290023.js"
+  ]
+}
